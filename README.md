@@ -153,7 +153,7 @@ Response Example:
 
 ### Backend Testing (Pytest)
 
-Backend tests are located in the `backend/tests/` directory.  
+Backend tests are located in the `backend/tests/` directory.
 ```
 backend/tests/
 ├── test_app.py
