@@ -7,7 +7,7 @@
 
       <!-- Introduction -->
       <p class="text-gray-700 leading-relaxed text-lg">
-        Hi, I'm Emanuela, a former Product Owner with over 5 years of experience in FinTech, now transitioning into Automation QA.
+        Hi, I'm Emanuela, a Scrum Certified Product Owner with over 5 years of experience in FinTech.
         My expertise in business analysis, product management, and software testing allows me to bridge the gap between business needs and technical implementation.
       </p>
 
@@ -25,27 +25,27 @@
       <!-- Work Journey -->
       <h3 class="text-xl font-semibold text-gray-800 mt-6">My Journey</h3>
       <p class="text-gray-700 leading-relaxed mt-2">
-        I worked as a Product Owner & Business Analyst at a FinTech company for over 5 years, collaborating with developers, banks, and customers
-        to enhance financial solutions. My work involved payment processing, account statements, API integrations, and financial data analysis.
+        As a Product Owner and Business Analyst I have been collaborating with both internal and external stakeholders to create and maintain financial solutions. My work involved payment processing, account statements, API integrations, and financial data analysis.
         <br><br>
-        Now, I'm applying my analytical skills and technical background to become a QA Automation Engineer, combining my domain expertise with Python, testing frameworks, and automation tools.
+        Now, I'm improving my analytical skills and technical background, gaining domain expertise with Python, testing frameworks, and automation tools.
       </p>
 
       <!-- Certifications -->
       <h3 class="text-xl font-semibold text-gray-800 mt-6">Certifications</h3>
       <ul class="text-gray-700 mt-3">
+        <li>📜 <strong>Certified Scrum Product Owner</strong> – Scrum Alliance(Credential ID: 865235)</li>
+        <li>📜 <strong>Machine Learning Product Management</strong> – Udemy (Credential ID: UC-31b76f19-8856-4065-9056-bfc16ce40d83)</li>
+        <li>📜 <strong>Lean Six Sigma White Belt</strong> – Advanced Innovation Group Pro Excellence (Credential ID: ZSSWB121159440)</li>
         <li>📜 <strong>Software Testing - Basics</strong> – Soft Academy (3-months intensive course)</li>
         <li>📜 <strong>The Complete Python Bootcamp</strong> – Udemy (Credential ID: UC-22a4ab3c-8586-48e5-93ef-b09bea0090d2)</li>
         <li>📜 <strong>The Complete SQL Bootcamp</strong> – Udemy (Credential ID: UC-9e03a4ee-021a-4c6f-b908-4561151b87a1)</li>
         <li>📜 <strong>Programming Basics with Java</strong> – Software University (Credential ID: 162151/d84bdd24)</li>
-        <li>📜 <strong>Selenium WebDriver with Python</strong> – Pending</li>
-        <li>📜 <strong>REST API Testing with Python & Postman</strong> – Pending</li>
       </ul>
 
       <!-- Technical Skills -->
       <h3 class="text-xl font-semibold text-gray-800 mt-6">Technical Skills</h3>
       <p class="text-gray-700 leading-relaxed mt-2">
-        <strong>Languages & Tools:</strong> Python, SQL, Selenium WebDriver, PyTest, Postman, Jenkins, GitHub, Jira
+        <strong>Languages & Tools:</strong> Jira, GitHub, SQL, Python, PyTest, Postman
       </p>
 
       <!-- Connect with Me -->
