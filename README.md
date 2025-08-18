@@ -150,11 +150,30 @@ Response Example:
 ```
 
 ## Testing
-Backend Tests
-Run Python tests:
+### Backend Testing (Pytest)
 
+Backend tests are located in the `backend/tests/` directory.  
+- `test_app.py` — Main backend test file.
+- You can add additional test files for more granular testing.
+
+**How to run backend tests:**
+```sh
+pytest backend/tests/
 ```
+or from the root of the backend folder:
+```sh
 pytest
+```
+
+**Testing best practices:**
+- Write unit tests for each API endpoint and core functionality.
+- Use mocking where necessary for database or external service calls.
+- Check the output, status codes, and error handling.
+- Add coverage reporting with `pytest-cov` if desired:
+  ```
+  pip install pytest-cov
+  pytest --cov=.
+  ```
 ```
 
 ## Frontend Testing (Vitest)
