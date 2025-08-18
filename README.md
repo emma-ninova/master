@@ -150,9 +150,16 @@ Response Example:
 ```
 
 ## Testing
+
 ### Backend Testing (Pytest)
 
 Backend tests are located in the `backend/tests/` directory.  
+```
+backend/tests/
+├── test_app.py
+
+```
+
 - `test_app.py` — Main backend test file.
 - You can add additional test files for more granular testing.
 
@@ -174,7 +181,6 @@ pytest
   pip install pytest-cov
   pytest --cov=.
   ```
-```
 
 ## Frontend Testing (Vitest)
 We use Vitest for unit testing in the frontend.
